@@ -1,0 +1,501 @@
+Record ID,Department,Data Source,Data Quality Issue,Records Affected,Issue Severity
+1,IT,Spreadsheet,Incorrect Formatting,96,Low
+2,Marketing,ERP System,Incorrect Formatting,68,Medium
+3,Sales,API Feed,Incorrect Formatting,91,Low
+4,Marketing,Legacy Database,Incorrect Formatting,64,High
+5,Marketing,Legacy Database,Inconsistent Data,17,High
+6,HR,ERP System,Inconsistent Data,12,High
+7,Sales,Spreadsheet,Duplicate Records,22,High
+8,Sales,Spreadsheet,Missing Values,17,Medium
+9,Sales,API Feed,Incorrect Formatting,10,Medium
+10,Marketing,ERP System,Duplicate Records,65,Medium
+11,IT,Legacy Database,Missing Values,22,High
+12,Sales,Spreadsheet,Outdated Data,90,High
+13,Marketing,ERP System,Inconsistent Data,82,Low
+14,HR,Spreadsheet,Missing Values,50,Low
+15,IT,Spreadsheet,Outdated Data,14,High
+16,HR,Legacy Database,Missing Values,64,High
+17,IT,CRM System,Inconsistent Data,47,High
+18,Marketing,API Feed,Inconsistent Data,29,High
+19,Finance,API Feed,Duplicate Records,76,Low
+20,IT,Legacy Database,Incorrect Formatting,36,High
+21,HR,Spreadsheet,Missing Values,99,Low
+22,Marketing,ERP System,Missing Values,52,High
+23,IT,Spreadsheet,Outdated Data,76,High
+24,Finance,Legacy Database,Inconsistent Data,7,High
+25,Finance,API Feed,Missing Values,29,Low
+26,Sales,Spreadsheet,Inconsistent Data,11,Low
+27,Sales,API Feed,Missing Values,33,Medium
+28,HR,ERP System,Duplicate Records,6,High
+29,IT,API Feed,Incorrect Formatting,79,Medium
+30,IT,API Feed,Missing Values,32,Medium
+31,Sales,CRM System,Inconsistent Data,51,Low
+32,IT,CRM System,Duplicate Records,75,Low
+33,IT,CRM System,Missing Values,58,Medium
+34,Finance,API Feed,Outdated Data,87,High
+35,Sales,Legacy Database,Incorrect Formatting,26,Low
+36,Marketing,API Feed,Missing Values,98,High
+37,Sales,Legacy Database,Duplicate Records,46,High
+38,Marketing,Legacy Database,Outdated Data,98,Medium
+39,Finance,CRM System,Duplicate Records,29,Medium
+40,HR,Spreadsheet,Duplicate Records,4,Medium
+41,IT,ERP System,Outdated Data,81,Medium
+42,Finance,CRM System,Duplicate Records,99,Low
+43,IT,CRM System,Outdated Data,13,Low
+44,HR,Spreadsheet,Missing Values,39,Medium
+45,HR,ERP System,Outdated Data,15,Low
+46,Finance,API Feed,Outdated Data,29,Medium
+47,HR,API Feed,Incorrect Formatting,29,High
+48,Marketing,CRM System,Outdated Data,75,High
+49,HR,ERP System,Outdated Data,32,High
+50,IT,CRM System,Missing Values,2,Medium
+51,IT,Legacy Database,Incorrect Formatting,47,High
+52,IT,CRM System,Inconsistent Data,78,Low
+53,IT,CRM System,Missing Values,84,High
+54,Marketing,API Feed,Missing Values,22,High
+55,Sales,API Feed,Inconsistent Data,75,High
+56,Finance,API Feed,Outdated Data,27,Low
+57,IT,Legacy Database,Duplicate Records,67,Medium
+58,HR,API Feed,Incorrect Formatting,81,Low
+59,IT,ERP System,Duplicate Records,56,Medium
+60,HR,Spreadsheet,Inconsistent Data,92,Medium
+61,HR,ERP System,Missing Values,93,High
+62,IT,ERP System,Missing Values,21,Medium
+63,Marketing,API Feed,Incorrect Formatting,47,Low
+64,HR,Spreadsheet,Missing Values,80,Low
+65,HR,Spreadsheet,Missing Values,59,Medium
+66,IT,Spreadsheet,Incorrect Formatting,84,High
+67,HR,Legacy Database,Incorrect Formatting,6,High
+68,HR,API Feed,Inconsistent Data,19,Low
+69,IT,Spreadsheet,Missing Values,57,High
+70,IT,Legacy Database,Missing Values,69,Medium
+71,Finance,CRM System,Inconsistent Data,3,Medium
+72,Marketing,CRM System,Outdated Data,1,Low
+73,Marketing,Legacy Database,Outdated Data,58,Medium
+74,HR,Legacy Database,Outdated Data,38,Low
+75,Marketing,API Feed,Inconsistent Data,15,Medium
+76,HR,API Feed,Missing Values,34,Low
+77,Finance,CRM System,Inconsistent Data,61,High
+78,IT,Spreadsheet,Inconsistent Data,35,Medium
+79,IT,CRM System,Outdated Data,64,Medium
+80,IT,Spreadsheet,Duplicate Records,25,Low
+81,Marketing,Spreadsheet,Missing Values,24,Low
+82,Finance,API Feed,Outdated Data,12,Medium
+83,Marketing,ERP System,Duplicate Records,18,Low
+84,Marketing,ERP System,Duplicate Records,15,Medium
+85,Finance,Legacy Database,Incorrect Formatting,80,High
+86,Finance,API Feed,Missing Values,27,Low
+87,Finance,Spreadsheet,Duplicate Records,72,Medium
+88,Finance,ERP System,Outdated Data,60,High
+89,IT,Spreadsheet,Incorrect Formatting,46,High
+90,Sales,ERP System,Missing Values,89,Medium
+91,Sales,ERP System,Inconsistent Data,17,Low
+92,Finance,ERP System,Outdated Data,93,Medium
+93,Sales,API Feed,Duplicate Records,53,High
+94,Sales,CRM System,Duplicate Records,8,Medium
+95,Finance,Spreadsheet,Outdated Data,79,Low
+96,Sales,API Feed,Duplicate Records,27,High
+97,Marketing,API Feed,Incorrect Formatting,46,Medium
+98,HR,API Feed,Missing Values,50,Low
+99,HR,API Feed,Incorrect Formatting,71,High
+100,Finance,API Feed,Duplicate Records,3,Low
+101,IT,Legacy Database,Inconsistent Data,93,High
+102,Finance,Spreadsheet,Missing Values,64,Medium
+103,IT,API Feed,Missing Values,44,Low
+104,HR,Spreadsheet,Outdated Data,53,High
+105,Finance,Legacy Database,Outdated Data,24,Low
+106,Marketing,Legacy Database,Inconsistent Data,60,Low
+107,Sales,Spreadsheet,Missing Values,3,Medium
+108,IT,ERP System,Inconsistent Data,20,Low
+109,Sales,CRM System,Outdated Data,46,High
+110,Sales,ERP System,Outdated Data,15,High
+111,Finance,ERP System,Missing Values,25,High
+112,Sales,ERP System,Incorrect Formatting,94,High
+113,Marketing,API Feed,Duplicate Records,78,Medium
+114,Sales,Legacy Database,Outdated Data,71,Low
+115,Finance,ERP System,Outdated Data,17,Medium
+116,Marketing,Legacy Database,Incorrect Formatting,84,Low
+117,HR,Spreadsheet,Incorrect Formatting,9,Low
+118,Sales,CRM System,Inconsistent Data,38,Low
+119,Finance,Spreadsheet,Inconsistent Data,48,Medium
+120,HR,Spreadsheet,Duplicate Records,60,Low
+121,HR,API Feed,Duplicate Records,63,Medium
+122,IT,CRM System,Missing Values,86,High
+123,Marketing,Spreadsheet,Inconsistent Data,2,High
+124,Sales,Spreadsheet,Outdated Data,88,Low
+125,Finance,CRM System,Inconsistent Data,72,Medium
+126,IT,CRM System,Outdated Data,11,High
+127,Marketing,Spreadsheet,Incorrect Formatting,64,Medium
+128,IT,CRM System,Inconsistent Data,77,Medium
+129,Marketing,Spreadsheet,Incorrect Formatting,81,Low
+130,Marketing,Spreadsheet,Duplicate Records,72,High
+131,Sales,API Feed,Duplicate Records,21,Low
+132,Marketing,ERP System,Missing Values,18,Low
+133,IT,Spreadsheet,Inconsistent Data,94,High
+134,Marketing,Legacy Database,Incorrect Formatting,64,High
+135,Sales,ERP System,Outdated Data,82,Medium
+136,Sales,ERP System,Duplicate Records,95,High
+137,IT,ERP System,Duplicate Records,38,Medium
+138,HR,API Feed,Outdated Data,32,Medium
+139,HR,Spreadsheet,Incorrect Formatting,11,Medium
+140,Marketing,API Feed,Incorrect Formatting,45,High
+141,Finance,Spreadsheet,Inconsistent Data,89,Low
+142,Marketing,API Feed,Inconsistent Data,33,Medium
+143,IT,API Feed,Missing Values,41,Low
+144,IT,Legacy Database,Duplicate Records,8,Low
+145,IT,API Feed,Inconsistent Data,11,High
+146,IT,CRM System,Incorrect Formatting,86,Low
+147,IT,Legacy Database,Outdated Data,51,Low
+148,Sales,API Feed,Incorrect Formatting,88,High
+149,HR,ERP System,Duplicate Records,41,Medium
+150,IT,CRM System,Incorrect Formatting,17,Low
+151,Finance,CRM System,Missing Values,76,High
+152,Finance,CRM System,Duplicate Records,46,Low
+153,Finance,Legacy Database,Outdated Data,32,Low
+154,Finance,API Feed,Missing Values,79,Medium
+155,Sales,API Feed,Duplicate Records,80,Low
+156,Finance,ERP System,Outdated Data,54,High
+157,IT,ERP System,Missing Values,86,Low
+158,Marketing,CRM System,Missing Values,92,Medium
+159,Finance,ERP System,Duplicate Records,20,Medium
+160,Sales,Legacy Database,Inconsistent Data,33,High
+161,Sales,API Feed,Missing Values,74,Medium
+162,Finance,CRM System,Missing Values,40,Low
+163,Marketing,ERP System,Outdated Data,32,Medium
+164,Finance,Legacy Database,Incorrect Formatting,97,High
+165,Sales,Legacy Database,Duplicate Records,2,Medium
+166,HR,ERP System,Duplicate Records,97,Medium
+167,IT,API Feed,Inconsistent Data,33,Medium
+168,Sales,ERP System,Inconsistent Data,77,High
+169,Finance,CRM System,Duplicate Records,30,Medium
+170,IT,ERP System,Inconsistent Data,33,Medium
+171,Finance,Legacy Database,Outdated Data,77,Low
+172,Finance,ERP System,Duplicate Records,26,High
+173,HR,API Feed,Inconsistent Data,22,Medium
+174,IT,Spreadsheet,Duplicate Records,66,High
+175,IT,ERP System,Incorrect Formatting,38,Medium
+176,HR,API Feed,Missing Values,90,Medium
+177,Sales,API Feed,Duplicate Records,46,Medium
+178,Finance,Legacy Database,Missing Values,15,Low
+179,Marketing,API Feed,Inconsistent Data,98,Low
+180,Finance,API Feed,Missing Values,44,Low
+181,Finance,API Feed,Duplicate Records,49,High
+182,Sales,API Feed,Incorrect Formatting,75,High
+183,Finance,CRM System,Inconsistent Data,61,Low
+184,HR,CRM System,Duplicate Records,67,High
+185,HR,Legacy Database,Inconsistent Data,6,Medium
+186,IT,ERP System,Outdated Data,9,Medium
+187,Marketing,API Feed,Missing Values,6,Medium
+188,Finance,ERP System,Outdated Data,73,Low
+189,Finance,ERP System,Duplicate Records,95,High
+190,Sales,Legacy Database,Incorrect Formatting,32,Low
+191,HR,API Feed,Inconsistent Data,41,High
+192,Marketing,API Feed,Missing Values,76,Medium
+193,IT,Spreadsheet,Inconsistent Data,8,Low
+194,HR,ERP System,Duplicate Records,72,High
+195,IT,ERP System,Inconsistent Data,50,High
+196,Sales,CRM System,Missing Values,92,Medium
+197,Sales,Spreadsheet,Duplicate Records,62,Low
+198,Finance,CRM System,Inconsistent Data,84,Low
+199,Marketing,CRM System,Incorrect Formatting,62,Low
+200,IT,CRM System,Duplicate Records,7,Medium
+201,HR,Legacy Database,Duplicate Records,75,Low
+202,Sales,Legacy Database,Incorrect Formatting,84,Medium
+203,Finance,CRM System,Outdated Data,80,Medium
+204,Finance,Spreadsheet,Missing Values,4,Medium
+205,IT,ERP System,Outdated Data,6,High
+206,Sales,Spreadsheet,Inconsistent Data,58,Low
+207,Marketing,API Feed,Incorrect Formatting,22,Low
+208,Sales,Legacy Database,Outdated Data,26,Medium
+209,IT,ERP System,Duplicate Records,3,Medium
+210,IT,ERP System,Inconsistent Data,41,Low
+211,Sales,API Feed,Inconsistent Data,60,Medium
+212,IT,API Feed,Outdated Data,14,Low
+213,Sales,CRM System,Outdated Data,75,High
+214,HR,Legacy Database,Incorrect Formatting,82,Medium
+215,Sales,Legacy Database,Missing Values,12,Low
+216,Sales,Spreadsheet,Outdated Data,87,Medium
+217,IT,CRM System,Outdated Data,12,Low
+218,IT,CRM System,Duplicate Records,13,Low
+219,Finance,CRM System,Inconsistent Data,25,Medium
+220,Finance,CRM System,Missing Values,45,High
+221,HR,Legacy Database,Duplicate Records,19,Low
+222,Finance,Legacy Database,Incorrect Formatting,55,Low
+223,Sales,CRM System,Incorrect Formatting,45,Low
+224,IT,Spreadsheet,Outdated Data,8,High
+225,Finance,ERP System,Outdated Data,93,High
+226,Finance,ERP System,Incorrect Formatting,53,Medium
+227,HR,Spreadsheet,Outdated Data,55,High
+228,HR,CRM System,Missing Values,32,Medium
+229,Sales,Legacy Database,Outdated Data,51,Medium
+230,IT,ERP System,Inconsistent Data,44,High
+231,HR,API Feed,Outdated Data,82,Medium
+232,Finance,API Feed,Duplicate Records,70,High
+233,IT,Spreadsheet,Missing Values,18,Medium
+234,IT,CRM System,Duplicate Records,83,High
+235,Finance,ERP System,Duplicate Records,22,High
+236,HR,CRM System,Inconsistent Data,37,Medium
+237,Finance,ERP System,Missing Values,96,Low
+238,IT,Spreadsheet,Missing Values,56,Medium
+239,Marketing,Spreadsheet,Missing Values,59,High
+240,Marketing,API Feed,Missing Values,3,Low
+241,Sales,CRM System,Missing Values,28,Medium
+242,Finance,API Feed,Inconsistent Data,74,Medium
+243,Finance,CRM System,Outdated Data,35,Medium
+244,Sales,API Feed,Duplicate Records,61,Low
+245,Sales,Legacy Database,Missing Values,93,High
+246,Sales,Legacy Database,Outdated Data,54,Medium
+247,IT,Legacy Database,Outdated Data,63,Medium
+248,Finance,Legacy Database,Duplicate Records,79,Medium
+249,IT,ERP System,Inconsistent Data,97,Medium
+250,Sales,Legacy Database,Incorrect Formatting,7,Medium
+251,Finance,Spreadsheet,Incorrect Formatting,76,High
+252,IT,Spreadsheet,Outdated Data,49,High
+253,IT,ERP System,Duplicate Records,94,Medium
+254,Sales,Legacy Database,Incorrect Formatting,85,Low
+255,Finance,Legacy Database,Outdated Data,31,High
+256,Sales,Legacy Database,Inconsistent Data,58,Low
+257,Finance,API Feed,Incorrect Formatting,61,High
+258,Marketing,CRM System,Outdated Data,24,Medium
+259,HR,API Feed,Outdated Data,20,High
+260,HR,CRM System,Missing Values,37,Medium
+261,HR,Legacy Database,Inconsistent Data,4,High
+262,Sales,Legacy Database,Missing Values,92,Medium
+263,Marketing,API Feed,Duplicate Records,20,Medium
+264,Finance,API Feed,Missing Values,60,Medium
+265,IT,CRM System,Missing Values,24,Medium
+266,Finance,Spreadsheet,Incorrect Formatting,50,Low
+267,IT,CRM System,Outdated Data,49,Medium
+268,Finance,API Feed,Inconsistent Data,51,Low
+269,Marketing,API Feed,Missing Values,96,Low
+270,IT,ERP System,Inconsistent Data,36,Medium
+271,Sales,API Feed,Missing Values,98,Low
+272,Finance,ERP System,Duplicate Records,66,High
+273,Finance,Spreadsheet,Missing Values,79,Medium
+274,IT,CRM System,Incorrect Formatting,34,Low
+275,Sales,CRM System,Outdated Data,36,Medium
+276,Sales,ERP System,Duplicate Records,6,Medium
+277,Marketing,CRM System,Missing Values,39,Medium
+278,Sales,API Feed,Inconsistent Data,42,Low
+279,Sales,Legacy Database,Duplicate Records,58,High
+280,Sales,ERP System,Duplicate Records,12,High
+281,HR,CRM System,Missing Values,3,Low
+282,Marketing,ERP System,Duplicate Records,18,Medium
+283,Finance,ERP System,Inconsistent Data,40,Low
+284,IT,Legacy Database,Duplicate Records,21,Low
+285,Finance,API Feed,Inconsistent Data,15,Low
+286,Marketing,ERP System,Missing Values,97,Medium
+287,IT,CRM System,Outdated Data,99,Low
+288,Marketing,Spreadsheet,Duplicate Records,26,Medium
+289,Sales,ERP System,Outdated Data,8,Low
+290,IT,ERP System,Inconsistent Data,94,High
+291,Sales,Legacy Database,Duplicate Records,87,Low
+292,Finance,API Feed,Incorrect Formatting,42,Low
+293,Finance,Spreadsheet,Outdated Data,44,High
+294,IT,CRM System,Duplicate Records,14,Medium
+295,IT,Spreadsheet,Outdated Data,78,Medium
+296,Marketing,CRM System,Duplicate Records,2,Low
+297,Marketing,API Feed,Missing Values,37,High
+298,Sales,CRM System,Outdated Data,69,Medium
+299,IT,Legacy Database,Incorrect Formatting,38,Low
+300,Finance,Legacy Database,Incorrect Formatting,41,High
+301,Marketing,Legacy Database,Inconsistent Data,62,Medium
+302,Marketing,Legacy Database,Duplicate Records,60,Medium
+303,Finance,Spreadsheet,Outdated Data,14,High
+304,Marketing,API Feed,Inconsistent Data,89,High
+305,Sales,CRM System,Outdated Data,84,High
+306,IT,CRM System,Duplicate Records,2,High
+307,Finance,Legacy Database,Incorrect Formatting,70,Low
+308,IT,Legacy Database,Missing Values,17,High
+309,Marketing,ERP System,Incorrect Formatting,89,Medium
+310,Marketing,API Feed,Inconsistent Data,28,Medium
+311,Finance,Spreadsheet,Missing Values,66,Low
+312,Sales,CRM System,Inconsistent Data,35,Medium
+313,HR,ERP System,Duplicate Records,5,Medium
+314,Finance,ERP System,Missing Values,65,High
+315,HR,CRM System,Inconsistent Data,40,Medium
+316,HR,Spreadsheet,Duplicate Records,76,Low
+317,Sales,ERP System,Incorrect Formatting,56,High
+318,HR,ERP System,Duplicate Records,36,High
+319,HR,API Feed,Outdated Data,45,Low
+320,Sales,Spreadsheet,Duplicate Records,23,High
+321,HR,ERP System,Duplicate Records,47,High
+322,HR,Spreadsheet,Outdated Data,31,Low
+323,HR,CRM System,Inconsistent Data,11,High
+324,Finance,Legacy Database,Inconsistent Data,10,Low
+325,Finance,ERP System,Duplicate Records,67,Low
+326,Finance,API Feed,Outdated Data,14,Medium
+327,Sales,CRM System,Outdated Data,80,Medium
+328,Marketing,Spreadsheet,Incorrect Formatting,74,High
+329,HR,CRM System,Inconsistent Data,93,High
+330,HR,ERP System,Missing Values,10,Low
+331,Sales,Spreadsheet,Inconsistent Data,76,High
+332,HR,Legacy Database,Inconsistent Data,94,Low
+333,Finance,CRM System,Incorrect Formatting,1,Low
+334,Marketing,ERP System,Missing Values,5,High
+335,IT,API Feed,Incorrect Formatting,20,Low
+336,HR,Spreadsheet,Missing Values,8,Medium
+337,Finance,CRM System,Duplicate Records,43,High
+338,IT,CRM System,Missing Values,76,Medium
+339,Marketing,Legacy Database,Incorrect Formatting,1,High
+340,IT,Legacy Database,Inconsistent Data,57,Low
+341,Finance,API Feed,Missing Values,64,High
+342,IT,API Feed,Missing Values,84,Medium
+343,Sales,ERP System,Outdated Data,28,Low
+344,IT,ERP System,Inconsistent Data,37,High
+345,HR,API Feed,Duplicate Records,47,High
+346,HR,API Feed,Incorrect Formatting,76,High
+347,Sales,Spreadsheet,Duplicate Records,37,Medium
+348,Finance,Legacy Database,Inconsistent Data,49,Medium
+349,HR,ERP System,Missing Values,44,High
+350,Marketing,Legacy Database,Missing Values,56,Low
+351,HR,Legacy Database,Inconsistent Data,28,Low
+352,HR,API Feed,Missing Values,79,Medium
+353,Finance,Spreadsheet,Missing Values,6,Low
+354,IT,CRM System,Missing Values,61,Medium
+355,HR,Spreadsheet,Incorrect Formatting,20,High
+356,Sales,Spreadsheet,Incorrect Formatting,78,Medium
+357,IT,Legacy Database,Outdated Data,2,Medium
+358,Marketing,Spreadsheet,Duplicate Records,73,High
+359,Finance,ERP System,Inconsistent Data,37,Low
+360,Marketing,Legacy Database,Inconsistent Data,20,Medium
+361,IT,ERP System,Inconsistent Data,26,Medium
+362,IT,CRM System,Outdated Data,29,High
+363,IT,Legacy Database,Incorrect Formatting,1,Low
+364,Marketing,CRM System,Outdated Data,35,Medium
+365,IT,Legacy Database,Inconsistent Data,70,High
+366,Marketing,API Feed,Duplicate Records,59,Medium
+367,IT,Spreadsheet,Missing Values,69,High
+368,Sales,API Feed,Incorrect Formatting,33,Low
+369,IT,CRM System,Incorrect Formatting,51,Low
+370,Marketing,Spreadsheet,Outdated Data,78,Low
+371,HR,Legacy Database,Incorrect Formatting,12,Low
+372,IT,Spreadsheet,Inconsistent Data,20,Medium
+373,HR,ERP System,Inconsistent Data,53,Medium
+374,Sales,Spreadsheet,Outdated Data,88,Low
+375,Finance,ERP System,Inconsistent Data,43,Low
+376,Sales,Spreadsheet,Duplicate Records,98,Low
+377,IT,ERP System,Outdated Data,89,Medium
+378,HR,CRM System,Duplicate Records,50,Low
+379,HR,API Feed,Missing Values,29,Low
+380,Marketing,Legacy Database,Duplicate Records,57,Low
+381,HR,Spreadsheet,Missing Values,39,High
+382,Marketing,API Feed,Missing Values,95,Low
+383,Finance,Legacy Database,Duplicate Records,56,High
+384,IT,Legacy Database,Outdated Data,43,High
+385,Marketing,ERP System,Inconsistent Data,50,Low
+386,Finance,CRM System,Inconsistent Data,23,High
+387,HR,CRM System,Missing Values,44,Low
+388,HR,API Feed,Missing Values,38,Medium
+389,Finance,CRM System,Outdated Data,84,Medium
+390,HR,Spreadsheet,Incorrect Formatting,23,Medium
+391,Finance,CRM System,Duplicate Records,45,Medium
+392,Marketing,API Feed,Missing Values,52,High
+393,Marketing,CRM System,Inconsistent Data,80,Low
+394,Finance,Spreadsheet,Outdated Data,50,Low
+395,Marketing,ERP System,Duplicate Records,8,Low
+396,Marketing,API Feed,Outdated Data,85,Medium
+397,Marketing,ERP System,Duplicate Records,1,Medium
+398,Sales,ERP System,Duplicate Records,8,Low
+399,IT,ERP System,Missing Values,29,Medium
+400,HR,Legacy Database,Outdated Data,96,Low
+401,Sales,Legacy Database,Outdated Data,5,Low
+402,Marketing,ERP System,Inconsistent Data,86,Low
+403,Finance,API Feed,Inconsistent Data,47,Low
+404,Marketing,Spreadsheet,Missing Values,34,Low
+405,IT,Spreadsheet,Missing Values,65,Low
+406,Marketing,CRM System,Incorrect Formatting,55,Low
+407,Finance,API Feed,Inconsistent Data,90,Medium
+408,IT,Legacy Database,Duplicate Records,43,Low
+409,Marketing,ERP System,Outdated Data,74,Low
+410,IT,CRM System,Missing Values,30,Medium
+411,HR,Spreadsheet,Outdated Data,82,Medium
+412,HR,Legacy Database,Outdated Data,17,Medium
+413,Marketing,Legacy Database,Incorrect Formatting,26,Low
+414,IT,ERP System,Inconsistent Data,8,High
+415,Finance,Spreadsheet,Missing Values,47,High
+416,Marketing,API Feed,Outdated Data,76,Medium
+417,HR,Legacy Database,Missing Values,91,High
+418,HR,ERP System,Duplicate Records,72,Medium
+419,Marketing,API Feed,Incorrect Formatting,89,Low
+420,IT,Spreadsheet,Duplicate Records,46,High
+421,HR,Legacy Database,Missing Values,68,Low
+422,IT,API Feed,Missing Values,33,High
+423,HR,API Feed,Inconsistent Data,1,Low
+424,HR,API Feed,Outdated Data,19,High
+425,Sales,Legacy Database,Outdated Data,31,Low
+426,HR,Legacy Database,Duplicate Records,80,Low
+427,Finance,CRM System,Incorrect Formatting,14,High
+428,Marketing,Spreadsheet,Outdated Data,53,Low
+429,Marketing,ERP System,Inconsistent Data,48,Low
+430,IT,API Feed,Duplicate Records,69,Low
+431,HR,CRM System,Duplicate Records,90,High
+432,Finance,ERP System,Inconsistent Data,62,High
+433,IT,CRM System,Incorrect Formatting,92,Low
+434,Sales,Legacy Database,Inconsistent Data,66,Low
+435,IT,API Feed,Incorrect Formatting,64,High
+436,IT,ERP System,Inconsistent Data,70,High
+437,HR,ERP System,Inconsistent Data,63,Low
+438,Sales,ERP System,Missing Values,73,Low
+439,IT,ERP System,Duplicate Records,33,Low
+440,Finance,ERP System,Inconsistent Data,41,Medium
+441,Finance,CRM System,Inconsistent Data,89,High
+442,Marketing,API Feed,Outdated Data,48,Medium
+443,Sales,Legacy Database,Duplicate Records,13,High
+444,Sales,Legacy Database,Outdated Data,73,High
+445,Marketing,Legacy Database,Duplicate Records,77,High
+446,IT,Legacy Database,Outdated Data,31,High
+447,Sales,CRM System,Inconsistent Data,75,High
+448,Finance,Spreadsheet,Inconsistent Data,68,High
+449,Finance,API Feed,Missing Values,98,High
+450,HR,ERP System,Outdated Data,4,Medium
+451,Sales,Spreadsheet,Incorrect Formatting,19,Low
+452,IT,Legacy Database,Missing Values,70,Low
+453,Marketing,Spreadsheet,Outdated Data,98,Medium
+454,Marketing,API Feed,Outdated Data,82,Medium
+455,IT,ERP System,Missing Values,13,Medium
+456,HR,ERP System,Inconsistent Data,23,Medium
+457,Marketing,API Feed,Outdated Data,83,High
+458,Sales,API Feed,Inconsistent Data,75,Low
+459,HR,Legacy Database,Missing Values,1,High
+460,Sales,ERP System,Inconsistent Data,88,Low
+461,Finance,Spreadsheet,Duplicate Records,54,Low
+462,HR,CRM System,Incorrect Formatting,71,Medium
+463,Marketing,CRM System,Outdated Data,89,High
+464,HR,API Feed,Incorrect Formatting,85,Medium
+465,HR,Legacy Database,Inconsistent Data,15,High
+466,HR,CRM System,Outdated Data,65,Low
+467,HR,ERP System,Inconsistent Data,76,Medium
+468,Sales,API Feed,Duplicate Records,71,Medium
+469,Finance,Spreadsheet,Missing Values,15,Low
+470,IT,API Feed,Outdated Data,21,Low
+471,HR,Spreadsheet,Duplicate Records,19,Low
+472,Marketing,API Feed,Duplicate Records,60,Medium
+473,HR,API Feed,Outdated Data,93,High
+474,Marketing,API Feed,Inconsistent Data,89,Medium
+475,Sales,Spreadsheet,Duplicate Records,33,High
+476,Marketing,Spreadsheet,Incorrect Formatting,49,Medium
+477,IT,API Feed,Duplicate Records,96,Medium
+478,Finance,CRM System,Inconsistent Data,35,Low
+479,Marketing,Legacy Database,Inconsistent Data,44,High
+480,Marketing,Legacy Database,Incorrect Formatting,90,Medium
+481,Finance,Legacy Database,Duplicate Records,11,Medium
+482,IT,Spreadsheet,Inconsistent Data,99,Low
+483,HR,Spreadsheet,Outdated Data,72,Low
+484,Marketing,CRM System,Missing Values,78,High
+485,Finance,Legacy Database,Missing Values,74,Medium
+486,Sales,Legacy Database,Missing Values,66,High
+487,Finance,API Feed,Duplicate Records,46,Medium
+488,Sales,Spreadsheet,Incorrect Formatting,9,High
+489,IT,Legacy Database,Inconsistent Data,3,Low
+490,HR,CRM System,Outdated Data,85,Medium
+491,Finance,CRM System,Outdated Data,26,High
+492,Marketing,Legacy Database,Duplicate Records,72,Low
+493,IT,Spreadsheet,Missing Values,48,Low
+494,Finance,CRM System,Duplicate Records,66,High
+495,Marketing,API Feed,Incorrect Formatting,70,Medium
+496,Finance,CRM System,Incorrect Formatting,28,Medium
+497,Sales,ERP System,Inconsistent Data,93,Low
+498,Finance,ERP System,Inconsistent Data,26,Medium
+499,Finance,Spreadsheet,Incorrect Formatting,25,Medium
+500,Finance,Legacy Database,Incorrect Formatting,12,Medium
